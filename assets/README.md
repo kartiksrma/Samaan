@@ -19,7 +19,7 @@ git clone https://github.com/kartiksrma/Samaan.git
 1. Use the input field to enter the items you need to buy.
 2. Click the "Add" button to add the item to the list.
 3. To remove an item as completed, tap the item.
-![gif](ezmiz.gif)
+
 
 
 ## Firebase Setup
