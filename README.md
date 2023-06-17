@@ -49,7 +49,8 @@ We are excited to announce upcoming updates to the Grocery List Manager, which w
 
 Stay tuned for these exciting updates, which will further empower you in managing your grocery lists and shopping needs!
 ## User Interface
-![UI of the Web App](../UI.png)
+![UI](https://github.com/kartiksrma/Samaan/assets/124518113/47c4e0f1-98cd-4700-9c4c-4e81943378de)
+
 
 ## Credits
 The application uses the Firebase platform for realtime database support.
